@@ -60,7 +60,7 @@ end
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "UI Delta Executor",
+    Name = "VIP SCRIPT BY XIIELL",
     LoadingTitle = "Memuat Script Vip Xiiell",
     LoadingSubtitle = "oleh Xiiell",
     ConfigurationSaving = {
