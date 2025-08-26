@@ -69,7 +69,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "UI Delta Executor",
     LoadingTitle = "Memuat UI Delta Executor",
-    LoadingSubtitle = "oleh NamaAnda",
+    LoadingSubtitle = "oleh Xiiell",
     ConfigurationSaving = {
        Enabled = true,
        FolderName = "DeltaUI",
@@ -131,7 +131,7 @@ buatToggle("Anti AFK", function(Value)
 end)
 
 -- Toggle: Auto Summit Gunung dengan respawn dan loop otomatis
-buatToggle("Auto Summit", function(Value)
+buatToggle("Gunung Yaudah", function(Value)
     if Value then
         print("Auto Summit aktif")
         _G.AutoSummit = true
